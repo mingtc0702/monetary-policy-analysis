@@ -6,13 +6,10 @@
 
 ---
 
-## 🖼️ Project Banner
-
-![IRF Output Growth](plots/irf_output_growth_pre_covid.png)
-
----
-
 ## 📌 Overview
+
+This project investigates how changes in the **Federal Funds Rate** impact **Montana's real GDP growth** and **unemployment rate**, using **Vector Autoregression (VAR)** models. The analysis includes both **pre-COVID** and **post-COVID** datasets, and evaluates responses through **structural impulse response functions (IRF)** and robustness checks.
+
 > 📚  Macroeconomic Data Analysis  
 > ✍️ Author: Mingtian Chen
 
