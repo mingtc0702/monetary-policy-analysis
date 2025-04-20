@@ -24,19 +24,6 @@ This project investigates how changes in the Federal Funds Rate impact **Montana
 
 ---
 
-## 📈 Key Visualizations
-
-### Output Growth Response to Interest Rate Shock (Pre-COVID)
-![IRF Output](plots/irf_output_growth_pre_covid.png)
-
-### Unemployment Response to Interest Rate Shock (With COVID)
-![IRF Unemployment](plots/irf_unemployment_covid.png)
-
-### ACF/PACF of Unemployment & Interest Rate
-![ACF PACF](plots/acf_pacf_unemployment_covid.png)
-
----
-
 ## 📌 Main Findings
 
 - **Real GDP Growth** shows no statistically significant response to interest rate shocks.
@@ -74,7 +61,7 @@ See `raw_data/README.md` for detailed notes.
 ## 📝 Full Report
 
 Read the full PDF report with theory, modeling, results, and discussion:  
-[report/SkyChen_WA2.pdf](report/SkyChen_WA2.pdf)
+[📄 montana_VAR_report.pdf](report/montana_VAR_report.pdf)
 
 ---
 
