@@ -9,7 +9,14 @@ This project investigates how changes in the Federal Funds Rate impact **Montana
 
 ## 📦 Project Structure
 
-. ├── code/ # R scripts and dependencies ├── report/ # Final written paper (PDF) ├── plots/ # Key visualizations (IRF, ACF, trend) ├── raw_data/ # Cleaned FRED data (CSV) └── README.md # Project overview
+```
+monetary-policy-analysis/
+├── code/           # R scripts and dependencies
+├── raw_data/       # Cleaned FRED data (CSV)
+├── plots/          # Key visualizations (IRF, ACF, trend)
+├── report/         # Final written paper (PDF)
+└── README.md       # Project overview
+```
 
 
 ---
