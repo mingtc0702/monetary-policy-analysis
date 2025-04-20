@@ -1,7 +1,18 @@
 # Monetary Policy and Economic Activity in Montana: A VAR-Based Project
 
-This project investigates how changes in the Federal Funds Rate impact **Montana's real GDP growth** and **unemployment rate**, using **Vector Autoregression (VAR)** models. The analysis includes both **pre-COVID** and **post-COVID** data, focusing on impulse response behavior and robustness testing.
+![Built with R](https://img.shields.io/badge/Built%20with-R-276DC3?style=flat&logo=r)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Project Status](https://img.shields.io/badge/status-Complete-brightgreen)
 
+---
+
+## 🖼️ Project Banner
+
+![IRF Output Growth](plots/irf_output_growth_pre_covid.png)
+
+---
+
+## 📌 Overview
 > 📚  Macroeconomic Data Analysis  
 > ✍️ Author: Mingtian Chen
 
@@ -77,5 +88,12 @@ Read the full PDF report with theory, modeling, results, and discussion:
 
 - Instructor: Giacomo Rondina
 - Data Source: Federal Reserve Economic Data (FRED)
+
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
