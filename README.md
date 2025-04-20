@@ -1,6 +1,6 @@
 # An Empirical Investigation of the Impact of Monetary Policy on Montana's Economy
 
-This project is part of ECON 112 coursework at UC San Diego and explores the causal effect of monetary policy on economic activities in Montana using Vector Autoregression (VAR) models.
+This project  explores the causal effect of monetary policy on economic activities in Montana using Vector Autoregression (VAR) models.
 
 ## 🔍 Research Question
 How does the federal funds interest rate impact:
