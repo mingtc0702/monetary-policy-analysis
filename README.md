@@ -14,7 +14,7 @@ monetary-policy-analysis/
 ├── code/           # R scripts and dependencies
 ├── raw_data/       # Cleaned FRED data (CSV)
 ├── plots/          # Key visualizations (IRF, ACF, trend)
-├── report/         # Final written paper (PDF)
+├── report/         # Final written report (PDF)
 └── README.md       # Project overview
 ```
 
